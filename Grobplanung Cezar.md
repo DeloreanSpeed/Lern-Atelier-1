@@ -10,8 +10,7 @@ Ich möchte gerne an den Modulen weiterarbeiten damit ich einen gewisse vorsprun
 
 # Arbeitspakete für den 29.8.23
 
-- [ ] an Modul 431 weiterarbeiten 
-- [ ] an Modul 319 weiterarbeiten 
+- [x] an Modul 431 weiterarbeiten  
 - [ ] mit C# vertraut machen 
 - [ ] Einen Code Schreiben in Visual Studios... 
 
