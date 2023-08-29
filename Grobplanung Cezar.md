@@ -25,6 +25,8 @@ Ich habe gut gearbeitet. Wie ich schon oben geschrieben habe habe ich die Zeit g
 
 Ich versuche wenn ich nicht in verzug mit den Modulen komme, ein Siples Programm zu schreiben auf Visual Studios.
 
+# Arbeitspakete für den 5.9.23
+
 
 - [x] an Modul 431 weiterarbeiten (wenn nötig) 
 - [ ] einen einfaches Programm schriebn auf Visual Studios z.B. Zahl errraten 
