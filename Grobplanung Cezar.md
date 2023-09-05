@@ -29,8 +29,16 @@ Ich versuche wenn ich nicht in verzug mit den Modulen komme, ein Siples Programm
 
 
 - [x] an Modul 431 weiterarbeiten (wenn nötig) 
-- [ ] einen einfaches Programm schriebn auf Visual Studios z.B. Zahl errraten 
+- [ ] einen einfaches Programm schreiben auf Visual Studios z.B. Zahl errraten
 
+# Zusammenfassung 
+
+Ich konnte jetzt einen gewissen Vorsprung bei Modul 431 was eine sehr gute sache ist. Das nächste mal könnte ich auch mal was programmieren. 
+
+# Arbeitspakete für den 12.9.23 
+
+- [ ] an Modul 431 weiterarbeiten (wenn nötig) 
+- [ ] Ein Programm wo man eine Zahl erraten kann 
 
 
 
