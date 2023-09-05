@@ -35,6 +35,10 @@ Ich versuche wenn ich nicht in verzug mit den Modulen komme, ein Siples Programm
 
 Ich konnte jetzt einen gewissen Vorsprung bei Modul 431 was eine sehr gute sache ist. Das nächste mal könnte ich auch mal was programmieren. 
 
+# Leitsatz 
+
+Falls nötig werde ich mir bei den Modulen einen gewissen Vorsprung verschafen. Ansonsten schreibe ich einen Code auf Visual Studios 
+
 # Arbeitspakete für den 12.9.23 
 
 - [ ] an Modul 431 weiterarbeiten (wenn nötig) 
