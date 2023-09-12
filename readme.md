@@ -56,7 +56,6 @@ Ich konnte ein Programm schreiben welche mir sagen kann ob eine Zahl gerade oder
 
 Ich werde sicher noch ein Programm schreiben was vielleicht kompliezierter ist. 
 
-
 # Arbeitspakete für den 19.9.23 
 
 - [ ] an Modul 431 weiterarbeiten (wenn nötig) 
