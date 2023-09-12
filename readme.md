@@ -42,7 +42,17 @@ Falls nötig werde ich mir bei den Modulen einen gewissen Vorsprung verschafen. 
 # Arbeitspakete für den 12.9.23 
 
 - [ ] an Modul 431 weiterarbeiten (wenn nötig) 
-- [ ] Ein Programm wo man eine Zahl erraten kann 
+- [ ] Ein Programm wo man eine Zahl erraten kann
+
+#Zusammmenfassung 
+
+Ich konnte ein Programm schreiben welche mir sagen kann ob eine Zahl gerade oder ungerade ist. Dies ist ein grosser schritt für mich weil ich dafür keine Hilfmittel benutzt habe. 
+
+| Eingabe | Ausgabe |
+| --- | --- |
+| Content 1 | Content 2 | 
+
+
 
 
 
