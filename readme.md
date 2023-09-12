@@ -42,7 +42,7 @@ Falls nötig werde ich mir bei den Modulen einen gewissen Vorsprung verschafen. 
 # Arbeitspakete für den 12.9.23 
 
 - [ ] an Modul 431 weiterarbeiten (wenn nötig) 
-- [ ] Ein Programm wo man eine Zahl erraten kann
+- [x] Ein Programm schreiben was angeben kann ob es gerade/ungerade ist
 
 #Zusammmenfassung 
 
@@ -50,7 +50,17 @@ Ich konnte ein Programm schreiben welche mir sagen kann ob eine Zahl gerade oder
 
 | Eingabe | Ausgabe |
 | --- | --- |
-| Content 1 | Content 2 | 
+| Eine Zahl | Programm sagt mir ob es gerade oder ungerade ist | 
+
+# Leitsatz
+
+Ich werde sicher noch ein Programm schreiben was vielleicht kompliezierter ist. 
+
+
+# Arbeitspakete für den 19.9.23 
+
+- [ ] an Modul 431 weiterarbeiten (wenn nötig) 
+- [ ] Ein Programm schreiben wo man eine Zahl erraten kann
 
 
 
