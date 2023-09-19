@@ -58,7 +58,7 @@ Ich werde sicher noch ein Programm schreiben was vielleicht kompliezierter ist.
 
 # Arbeitspakete für den 19.9.23 
 
-- [ ] an Modul 431 weiterarbeiten (wenn nötig) 
+- [ ] an Modul 431/319 weiterarbeiten (wenn nötig) 
 - [ ] Ein Programm schreiben wo man eine Zahl erraten kann
 
 
