@@ -58,8 +58,22 @@ Ich werde sicher noch ein Programm schreiben was vielleicht kompliezierter ist.
 
 # Arbeitspakete für den 19.9.23 
 
-- [ ] an Modul 431/319 weiterarbeiten (wenn nötig) 
-- [ ] Ein Programm schreiben wo man eine Zahl erraten kann
+- [x] an Modul 431/319 weiterarbeiten (wenn nötig) 
+- [x] Ein Programm schreiben wo man eine Zahl erraten kann
+
+#Zusammenfassung 
+
+Ich habe an Modul 319 gearbeitet. Ausserdem habe ich ein Programm erstellt wo man zahlen von 1-101 erraten kann. Das problem allerdings war das alles zu programmieren. Vieles habe ich vom Internet genommen. Ich würde sagen das ein drittel von mir ist und der rest vom internet. Vielleicht hätte ich was einfacheres machen sollen. 
+
+# Leitsatz 
+
+Ich werde versuchen ein einfacheres Programm zu schreiben mit Methoden die ich schon bei Modulen angewendet habe. 
+
+# Arbeitspakete 26.9.23
+
+- [x] an Modul 431/319 weiterarbeiten (wenn nötig) 
+- [x] Ein Programm schreiben das mir verschiedene Arten von Witzen erzählt (switch) 
+
 
 
 
