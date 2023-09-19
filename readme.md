@@ -71,8 +71,9 @@ Ich werde versuchen ein einfacheres Programm zu schreiben mit Methoden die ich s
 
 # Arbeitspakete 26.9.23
 
-- [x] an Modul 431/319 weiterarbeiten (wenn nötig) 
-- [x] Ein Programm schreiben das mir verschiedene Arten von Witzen erzählt (switch) 
+- [ ] an Modul 319 Aufgabe 6906 weiterarbeiten (wenn nötig) 
+- [ ] Ein Programm schreiben das mir verschiedene Arten von Witzen erzählt (switch-case)
+- [ ] an Modul 431 Aufgabe 1706 
 
 
 
