@@ -63,7 +63,7 @@ Ich werde sicher noch ein Programm schreiben was vielleicht kompliezierter ist.
 
 #Zusammenfassung 
 
-Ich habe an Modul 319 gearbeitet. Ausserdem habe ich ein Programm erstellt wo man zahlen von 1-101 erraten kann. Das problem allerdings war das alles zu programmieren. Vieles habe ich vom Internet genommen. Ich würde sagen das ein drittel von mir ist und der rest vom internet. Vielleicht hätte ich was einfacheres machen sollen. 
+Ich habe an Modul 319 gearbeitet. Ausserdem habe ich ein Programm erstellt wo man zahlen von 1-101 erraten kann. Das problem allerdings war das alles zu programmieren. Vieles habe ich vom Internet genommen. Ich würde sagen das ein drittel von mir ist und der rest vom internet. Vielleicht hätte ich was einfacheres machen sollen. Es fällt mir halt schwer wichtige Elemente zu memorisieren. 
 
 # Leitsatz 
 
