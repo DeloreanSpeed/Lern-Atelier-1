@@ -61,7 +61,7 @@ Ich werde sicher noch ein Programm schreiben was vielleicht kompliezierter ist.
 - [x] an Modul 431/319 weiterarbeiten (wenn nötig) 
 - [x] Ein Programm schreiben wo man eine Zahl erraten kann
 
-#Zusammenfassung 
+# Zusammenfassung 
 
 Ich habe an Modul 319 gearbeitet. Ausserdem habe ich ein Programm erstellt wo man zahlen von 1-101 erraten kann. Das problem allerdings war das alles zu programmieren. Vieles habe ich vom Internet genommen. Ich würde sagen das ein drittel von mir ist und der rest vom internet. Vielleicht hätte ich was einfacheres machen sollen. Es fällt mir halt schwer wichtige Elemente zu memorisieren. 
 
@@ -72,9 +72,19 @@ Ich werde versuchen ein einfacheres Programm zu schreiben mit Methoden die ich s
 # Arbeitspakete 26.9.23
 
 - [ ] an Modul 319 Aufgabe 6906 weiterarbeiten (wenn nötig) 
-- [ ] Ein Programm schreiben das mir verschiedene Arten von Witzen erzählt (switch-case)
-- [ ] an Modul 431 Aufgabe 1706 
+- [x] Ein Programm schreiben das mir verschiedene Arten von Witzen erzählt (switch-case)
+- [x] an Modul 431 Aufgabe 1706 
 
+# Zusammenfassung 
+
+Ich habe sehr grosse vortschritte gemacht da ich an Programm fast selbstständig schreiben konnte. Damit meine Ich das Switch-Case Programm was mir etwa 2h gekostet hat als Hilfmittel habe ich Chatgbt benutzt. Auch habe ich an Modul 431 gearbeitet was nicht allzu viel Zeit gekostet hat. 
+
+
+## Reflextion 
+
+Die Lernperiode hatte seine höhen und tiefen. Das allererste woran ich in dieser Lernperiode arbeitete war Modul 431 da ich sehr hintendrann war. Da es mir Spass gemacht hat an diesem Modul zu arbeiten habe ich mich entschieden einfach weiter daran zu machen. Dies hat dazu geführt das ich mir ein Vorsprung verschaffen habe. An diesen zwei Tagen war ich auch voll fokusiert. Allerdings haben sie mir empfolhen für die dritte Woche ein Programm zu schreiben. Das war auch die woche wo wir homeschooling hatten. Homeschooling war ziemlich praktisch da es zu Hause viel gemütlicher ist. Auf jeden fall gelang es mir ein Programm zu schreiben welches sagen kann ob eine Zahl gerade oder ungerade ist. Ich habe den ganzen halben Tag dafür gebraucht aber es hat sich dafür gelohnt. In der nächsten Woche habe ich wieder ein Programm geschriebn was auch mit Zahlen zu tun hatte. Diesmals kann ich Zahlen erraten. Allerdings hatte ich zu wenig know-how weshalb ich auf Hilfe vom Internet angewiesen war. Dann in der letzen Woche ist mir gelungen ein Programm zu schreiben was mir verschiedene Arten von Witzen erzählt (switch-case) und habe noch an Modul 431 gearbeitet. Im grossen und ganzen fand ich diese Lernperiode ok. Aufjeden fall habe ich neue Sachen gelernt
+
+VVS: Nicht zuviel Zeit nehmen bei den Projekten 
 
 
 
